@@ -1,0 +1,12 @@
+name: assets_for_android_views
+description: Recorded touch event sequences
+version : 0.1.0
+author: Flutter Team <flutter-dev@googlegroups.com>
+homepage: http://flutter.io
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+  flutter: '>=0.1.0 <2.0.0'
+
+flutter:
+  assets:
+    - assets/touchEvents
