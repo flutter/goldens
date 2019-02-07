@@ -28,3 +28,8 @@ This section lists the files that can now be deleted because
 they have been replaced in this way:
 
 - packages/flutter/test/material/floating_action_button_test.clip.1.png
+- packages/flutter/test/widgets/text_golden.Strut.1.png
+- packages/flutter/test/widgets/text_golden.Strut.2.png
+- packages/flutter/test/widgets/text_golden.Strut.3.png
+- packages/flutter/test/widgets/text_golden.Strut.4.png
+- packages/flutter/test/widgets/text_golden.StrutForce.1.png
