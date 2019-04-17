@@ -28,6 +28,8 @@ This section lists the files that can now be deleted because
 they have been replaced in this way:
 
 - packages/flutter/test/material/floating_action_button_test.clip.1.png
+- packages/flutter/test/widgets/editable_text_test.0.2.png
+- packages/flutter/test/widgets/editable_text_test.1.2.png
 - packages/flutter/test/widgets/editable_text_test.0.1.png
 - packages/flutter/test/widgets/editable_text_test.1.1.png
 - packages/flutter/test/widgets/editable_text_test.0.0.png
