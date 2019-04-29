@@ -46,3 +46,5 @@ they have been replaced in this way:
 - packages/flutter/test/widgets/shadow.PhysicalShape.9.png
 - packages/flutter/test/cupertino/date_picker_test.datetime.drag.png	
 - packages/flutter/test/cupertino/date_picker_test.datetime.initial.png
+- packages/flutter/test/cupertino/text_field_cursor_test.0.0.png
+- packages/flutter/test/cupertino/text_field_cursor_test.1.0.png
