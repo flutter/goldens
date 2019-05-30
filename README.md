@@ -51,3 +51,6 @@ they have been replaced in this way:
 - packages/flutter/test/cupertino/text_field_cursor_test.1.0.png
 - packages/flutter/test/cupertino/text_field_cursor_test.0.1.png
 - packages/flutter/test/cupertino/text_field_cursor_test.1.1.png
+- packages/flutter/test/widgets/text_golden.TextInlineWidget.2.1.png
+- packages/flutter/test/widgets/text_golden.TextInlineWidgetNest.1.1.png
+
