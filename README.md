@@ -27,6 +27,16 @@ image than before the change.
 This section lists the files that can now be deleted because
 they have been replaced in this way:
 
+- packages/flutter/test/cupertino/date_picker_test.datetime.drag.png	
+- packages/flutter/test/cupertino/date_picker_test.datetime.initial.png
+- packages/flutter/test/cupertino/text_field_cursor_test.0.0.png
+- packages/flutter/test/cupertino/text_field_cursor_test.1.0.png
+- packages/flutter/test/cupertino/text_field_cursor_test.0.1.png
+- packages/flutter/test/cupertino/text_field_cursor_test.1.1.png
+- packages/flutter/test/cupertino/text_field_cursor_test.0.2.png
+- packages/flutter/test/cupertino/text_field_cursor_test.1.2.png
+- packages/flutter/test/material/text_field_cursor_test.0.0.png
+- packages/flutter/test/material/text_field_cursor_test.1.0.png
 - packages/flutter/test/material/floating_action_button_test.clip.1.png
 - packages/flutter/test/material/text_field_opacity_test.0.1.png
 - packages/flutter/test/widgets/editable_text_test.0.2.png
@@ -45,12 +55,6 @@ they have been replaced in this way:
 - packages/flutter/test/widgets/shadow.PhysicalShape.6.png
 - packages/flutter/test/widgets/shadow.PhysicalShape.8.png
 - packages/flutter/test/widgets/shadow.PhysicalShape.9.png
-- packages/flutter/test/cupertino/date_picker_test.datetime.drag.png	
-- packages/flutter/test/cupertino/date_picker_test.datetime.initial.png
-- packages/flutter/test/cupertino/text_field_cursor_test.0.0.png
-- packages/flutter/test/cupertino/text_field_cursor_test.1.0.png
-- packages/flutter/test/cupertino/text_field_cursor_test.0.1.png
-- packages/flutter/test/cupertino/text_field_cursor_test.1.1.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidget.2.1.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidgetNest.1.1.png
 
