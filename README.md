@@ -35,6 +35,13 @@ they have been replaced in this way:
 - packages/flutter/test/cupertino/text_field_cursor_test.1.1.png
 - packages/flutter/test/cupertino/text_field_cursor_test.0.2.png
 - packages/flutter/test/cupertino/text_field_cursor_test.1.2.png
+- material/bottom_navigation_bar.shifting_transition.2.0.png
+- material/bottom_navigation_bar.shifting_transition.2.1.png
+- material/bottom_navigation_bar.shifting_transition.2.3.png
+- material/bottom_navigation_bar.shifting_transition.2.4.png
+- material/bottom_navigation_bar.shifting_transition.2.5.png
+- material/bottom_navigation_bar.shifting_transition.2.6.png
+- material/bottom_navigation_bar.shifting_transition.2.7.png
 - packages/flutter/test/material/text_field_cursor_test.0.0.png
 - packages/flutter/test/material/text_field_cursor_test.1.0.png
 - packages/flutter/test/material/floating_action_button_test.clip.1.png
