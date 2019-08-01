@@ -44,6 +44,7 @@ they have been replaced in this way:
 - material/bottom_navigation_bar.shifting_transition.2.7.png
 - packages/flutter/test/material/text_field_cursor_test.0.0.png
 - packages/flutter/test/material/text_field_cursor_test.1.0.png
+- packages/flutter/test/material/text_field_opacity_test.0.2.png
 - packages/flutter/test/material/floating_action_button_test.clip.1.png
 - packages/flutter/test/widgets/editable_text_test.0.2.png
 - packages/flutter/test/widgets/editable_text_test.1.2.png
