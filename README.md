@@ -27,6 +27,9 @@ image than before the change.
 This section lists the files that can now be deleted because
 they have been replaced in this way:
 
+- packages/flutter/test/cupertino/switch.tap.off.0.png
+- packages/flutter/test/cupertino/switch.tap.on.0.png
+- packages/flutter/test/cupertino/switch.tap.turningOn.0.png
 - packages/flutter/test/cupertino/date_picker_test.datetime.drag.1.png
 - packages/flutter/test/cupertino/date_picker_test.datetime.initial.1.png
 - packages/flutter/test/cupertino/date_picker_test.datetime.drag.png
