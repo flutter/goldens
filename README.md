@@ -27,6 +27,9 @@ image than before the change.
 This section lists the files that can now be deleted because
 they have been replaced in this way:
 
+- packages/flutter/test/cupertino/text_field_cursor_test.cupertino.0.2.png
+- packages/flutter/test/cupertino/text_field_cursor_test.cupertino.1.2.png
+- packages/flutter/test/cupertino/text_field_test.disabled.0.png
 - packages/flutter/test/widgets/list_wheel_scroll_view.curved_wheel.left.png
 - packages/flutter/test/widgets/list_wheel_scroll_view.center_child.magnified.png
 - packages/flutter/test/cupertino/timer_picker_test.datetime.drag.1.png
