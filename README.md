@@ -69,6 +69,7 @@ they have been replaced in this way:
 - packages/flutter/test/widgets/text_golden.DecorationThickness.1.0.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidget.2.1.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidgetNest.1.1.png
+- packages/flutter/test/widgets/text_golden.TextInlineWidgetNest.1.2.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidget.1.0.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidgetBaseline.1.0.png
 - packages/flutter/test/widgets/text_golden.TextInlineWidgetAboveBaseline.1.0.png
