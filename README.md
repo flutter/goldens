@@ -27,6 +27,8 @@ image than before the change.
 This section lists the files that can now be deleted because
 they have been replaced in this way:
 
+- packages/flutter/test/cupertino/nav_bar_test.large_title.2.png
+- packages/flutter/test/cupertino/nav_bar_test.standard_title.2.png
 - packages/flutter/test/cupertino/text_field_cursor_test.cupertino.0.2.png
 - packages/flutter/test/cupertino/text_field_cursor_test.cupertino.1.2.png
 - packages/flutter/test/cupertino/text_field_test.disabled.0.png
