@@ -1,3 +1,11 @@
+ #### :stop_sign: The flutter/goldens repository has been deprecated from its use for the flutter/flutter repository’s golden file testing.  :stop_sign:
+
+The repository is currently persisting for historical record and the storage of other resources used for integration tests in flutter/flutter. 
+
+Visit [Writing a golden file test for package:flutter](https://github.com/flutter/flutter/wiki/Writing-a-golden-file-test-for-package:flutter), to learn more about new golden file testing procedures for flutter.
+
+---
+
 A repository for golden image files that are used by tests in https://github.com/flutter/flutter.
 
 See: https://github.com/flutter/flutter/wiki/Writing-a-golden-file-test-for-package%3Aflutter
