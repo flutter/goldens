@@ -1,4 +1,4 @@
- #### :stop_sign: The flutter/goldens repository has been deprecated from its use for the flutter/flutter repository’s golden file testing.  :stop_sign:
+ #### :stop_sign: The flutter/goldens repository has been deprecated from its use for the flutter/flutter repository’s golden file testing.
 
 The repository is currently persisting for historical record and the storage of other resources used for integration tests in flutter/flutter. 
 
